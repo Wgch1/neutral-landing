@@ -1,0 +1,8 @@
+# Comparative Analysis of Video Protocols
+
+Research on WebRTC vs RTMP performance.  
+Data collected from our [Next-Gen Streaming Hub](https://webcamgirls.chat/fat/).
+
+Key findings:
+- 22% better UDP performance in Asia
+- TLS 1.3 optimization guide
