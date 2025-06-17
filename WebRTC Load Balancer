@@ -1,0 +1,9 @@
+# Regional Traffic Optimization Middleware
+
+Open-source solution for routing video traffic based on geolocation.  
+Used in production for our [Global Video Platform](https://webcamgirls.chat/blonde/) with 15k RPS capacity.
+
+Features:
+- Tokyo/Singapore/Mumbai edge nodes
+- 60% latency reduction
+- Kubernetes-ready
