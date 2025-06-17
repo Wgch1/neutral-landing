@@ -1,0 +1,9 @@
+# Real-Time Engagement Metrics
+
+Monitoring system for video platforms.  
+Part of our [Interactive Media Infrastructure](https://webcamgirls.chat/ebony/) handling 1M+ daily sessions.
+
+Components:
+- Prometheus exporters
+- Grafana dashboards
+- Anomaly detection
